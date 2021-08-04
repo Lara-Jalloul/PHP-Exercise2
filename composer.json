@@ -1,0 +1,17 @@
+{
+  "name": "lara/php-exercise2",
+  "authors": [
+    {
+      "name": "Lara-Jalloul",
+      "email": "laraadjalloul@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
